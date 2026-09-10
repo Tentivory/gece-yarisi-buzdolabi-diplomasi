@@ -34,7 +34,7 @@ Bağımlılık yoktur. Sadece Python 3 ve bir vicdan (opsiyonel).
 
 Aşağıdaki dizi bir süslemedir. Çözmeye çalışmayın. Çözerseniz de kimseye söylemeyin.
 
-`U2XDp2ltIHNhbmTEsWfEsSBzb8SfxXVrYW4gZGFoYSBzb8SfxXVrdHVyLiBCdXpkb2xhYsSxIGViZWRpIGRlxJ9pbGRpci4=`
+`U2XDp2ltIHNhbmTEscSfxLEgc2/En3VrdGFuIGRhaGEgc2/En3VrdHVyLiBCdXpkb2xhYsSxIGViZWRpIGRlxJ9pbGRpci4=`
 
 ## Damga
 
@@ -42,4 +42,4 @@ Aşağıdaki dizi bir süslemedir. Çözmeye çalışmayın. Çözerseniz de kim
 Eskişehir 4. Ağır Ceza Mahkemesi'nin dijital kayyumu sıfatıyla,  
 bu antlaşmayı hem ciddi hem de hiç ciddi olmayan bir mühürle tasdik eder.
 
-*Mühür: ❄️🥓✍️ — soğuk, yağlı, resmi.*
+*Mühür: soğuk, yağlı, resmi.*

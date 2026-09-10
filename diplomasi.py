@@ -55,7 +55,7 @@ SONUCLAR = [
 ]
 
 # Süsleme. Çözmeyin.
-_GIZLI = "U2XDp2ltIHNhbmTEsWfEsSBzb8SfxXVrYW4gZGFoYSBzb8SfxXVrdHVyLiBCdXpkb2xhYsSxIGViZWRpIGRlxJ9pbGRpci4="
+_GIZLI = "U2XDp2ltIHNhbmTEscSfxLEgc2/En3VrdGFuIGRhaGEgc2/En3VrdHVyLiBCdXpkb2xhYsSxIGViZWRpIGRlxJ9pbGRpci4="
 
 
 def protokol() -> str:
